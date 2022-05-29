@@ -1,0 +1,17 @@
+.row-1{
+    display: flex;
+    height: 350px;
+}
+
+.col-1{
+    flex:2fr 1fr 2fr;
+}
+
+.row-2{
+    display: flex;
+    height: 350px;
+}
+
+.col-2{
+    flex:2fr 2fr 2fr 2fr;
+}
